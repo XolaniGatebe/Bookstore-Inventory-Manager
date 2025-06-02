@@ -12,4 +12,4 @@ This creates a copy in your GitHub account.
 
 **Clone your forked repository**:
 ```bash
-git clone https://github.com/XolaniGatebe/shelf_track.git
+git clone https://github.com/XolaniGatebe/Bookstore-Inventory-Manager.git
